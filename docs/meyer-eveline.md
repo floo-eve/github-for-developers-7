@@ -4,3 +4,4 @@
     [ Switzerland ] Where you are from
     [ Chocolate ] A favorite food
     [ unihockey ] A hobby
+    [ blue ] favourite colour
