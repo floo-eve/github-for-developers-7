@@ -5,3 +5,4 @@
     [ Chocolate ] A favorite food
     [ unihockey ] A hobby
     [ blue ] favorite colour
+    [ Genf ] city
